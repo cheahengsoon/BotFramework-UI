@@ -1,0 +1,42 @@
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Bot Application.dll.config
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Bot Application.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Bot Application.pdb
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\AdaptiveCards.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Autofac.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Chronic.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Microsoft.Bot.Builder.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Microsoft.Bot.Connector.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Newtonsoft.Json.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\System.Net.Http.Formatting.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\System.Web.Http.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\System.Web.Http.WebHost.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Autofac.xml
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Microsoft.Bot.Builder.xml
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Microsoft.Bot.Connector.xml
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\Newtonsoft.Json.xml
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\System.Net.Http.Formatting.xml
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\System.Web.Http.xml
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\System.Web.Http.WebHost.xml
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\obj\Debug\BotAdaptiveCard.csprojResolveAssemblyReference.cache
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\obj\Debug\BotAdaptiveCard.csproj.CoreCompileInputs.cache
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\obj\Debug\Bot Application.dll
+C:\Suthahar\Xamarin\Xamarin\BotAdaptiveCard\BotAdaptiveCard\obj\Debug\Bot Application.pdb

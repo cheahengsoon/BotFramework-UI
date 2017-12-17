@@ -1,0 +1,41 @@
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\obj\Debug\BotHeroCard.csprojResolveAssemblyReference.cache
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\obj\Debug\BotHeroCard.csproj.CoreCompileInputs.cache
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Bot Application.dll.config
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Bot Application.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Bot Application.pdb
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Autofac.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Chronic.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Microsoft.Bot.Builder.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Microsoft.Bot.Connector.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Newtonsoft.Json.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\System.Net.Http.Formatting.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\System.Web.Http.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\System.Web.Http.WebHost.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Autofac.xml
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Microsoft.Bot.Builder.xml
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Microsoft.Bot.Connector.xml
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\Newtonsoft.Json.xml
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\System.Net.Http.Formatting.xml
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\System.Web.Http.xml
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\System.Web.Http.WebHost.xml
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\obj\Debug\Bot Application.dll
+C:\Suthahar\Xamarin\Xamarin\BotHeroCard\BotHeroCard\obj\Debug\Bot Application.pdb

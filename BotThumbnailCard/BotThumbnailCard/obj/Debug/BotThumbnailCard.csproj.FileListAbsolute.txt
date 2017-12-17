@@ -1,0 +1,41 @@
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\obj\Debug\BotThumbnailCard.csprojResolveAssemblyReference.cache
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\obj\Debug\BotThumbnailCard.csproj.CoreCompileInputs.cache
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Bot Application.dll.config
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Bot Application.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Bot Application.pdb
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Autofac.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Chronic.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Microsoft.Bot.Builder.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Microsoft.Bot.Connector.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Newtonsoft.Json.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\System.Net.Http.Formatting.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\System.Web.Http.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\System.Web.Http.WebHost.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Autofac.xml
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Microsoft.Bot.Builder.xml
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Microsoft.Bot.Connector.xml
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\Newtonsoft.Json.xml
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\System.Net.Http.Formatting.xml
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\System.Web.Http.xml
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\System.Web.Http.WebHost.xml
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\obj\Debug\Bot Application.dll
+C:\Suthahar\Xamarin\Xamarin\BotThumbnailCard\BotThumbnailCard\obj\Debug\Bot Application.pdb

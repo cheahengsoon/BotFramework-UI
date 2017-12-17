@@ -1,0 +1,41 @@
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\obj\Debug\BotReceiptCard.csprojResolveAssemblyReference.cache
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\obj\Debug\BotReceiptCard.csproj.CoreCompileInputs.cache
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Bot Application.dll.config
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Bot Application.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Bot Application.pdb
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Autofac.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Chronic.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Microsoft.Bot.Builder.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Microsoft.Bot.Connector.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Newtonsoft.Json.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\System.Net.Http.Formatting.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\System.Web.Http.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\System.Web.Http.WebHost.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Autofac.xml
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Microsoft.Bot.Builder.xml
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Microsoft.Bot.Connector.xml
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\Newtonsoft.Json.xml
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\System.Net.Http.Formatting.xml
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\System.Web.Http.xml
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\System.Web.Http.WebHost.xml
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\obj\Debug\Bot Application.dll
+C:\Suthahar\Xamarin\Xamarin\BotReceiptCard\BotReceiptCard\obj\Debug\Bot Application.pdb
