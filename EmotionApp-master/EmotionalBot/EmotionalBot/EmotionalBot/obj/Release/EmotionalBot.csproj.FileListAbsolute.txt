@@ -1,0 +1,39 @@
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Bot Application1.dll.config
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Bot Application1.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Bot Application1.pdb
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Autofac.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Chronic.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Newtonsoft.Json.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\System.Net.Http.Formatting.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\System.Web.Http.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\System.Web.Http.WebHost.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Autofac.xml
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\Newtonsoft.Json.xml
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\System.Net.Http.Formatting.xml
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\System.Web.Http.xml
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\System.Web.Http.WebHost.xml
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\obj\Release\EmotionalBot.csproj.CoreCompileInputs.cache
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\obj\Release\Bot Application1.dll
+C:\Users\cheah\Desktop\EmotionApp-master\EmotionalBot\EmotionalBot\EmotionalBot\obj\Release\Bot Application1.pdb
